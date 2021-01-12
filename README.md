@@ -4,7 +4,7 @@
 ## Dependence
 
 * [Python](https://www.python.org/) 3.7
-* [Django](https://www.djangoproject.com/) 2.1
+* [Django](https://www.djangoproject.com/) 3.1
 
 ## Get Started
 
